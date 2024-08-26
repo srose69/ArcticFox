@@ -1,0 +1,167 @@
+ArcticFox 210103
+----------------
+
+[+] 2 batteries mode for Eleaf iStick QC.
+
+
+
+RedPanda 200713
+----------------
+
+[*] Fix presumable battery indicator lag.
+
+
+
+RedPanda 200214
+----------------
+
+[+] Support: Joyetech EKEE.
+
+
+
+RedPanda 191004
+----------------
+
+[+] Support: Joyetech Cuboid Lite.
+
+
+
+------------------
+| Release 190624 |
+------------------
+
+[+] Charge overload/overheat protection restart.
+
+
+
+ArcticFox 190620
+----------------
+
+[*] Minor bugfixes.
+
+
+
+ArcticFox 190619
+----------------
+
+[+] Support: Wismec Exo Skeleton ES300 (MyVapors myTri).
+
+
+
+ArcticFox 190613
+----------------
+
+[*] Reverted DC-DC convertors routine for Pico S, Luxotic MF.
+[*] Detailed Log protocol updated to use with upcoming NToolbox release.
+
+
+
+------------------
+| Release 190602 |
+------------------
+
+[*] Puff Cut-Off increased to 60 sec.
+
+
+
+ArcticFox 190526
+----------------
+
+[*] Minor changes, refactoring.
+
+
+
+ArcticFox 190525
+----------------
+
+[*] Minor changes, refactoring.
+
+
+
+ArcticFox 190524
+----------------
+
+[*] Minor changes, refactoring.
+
+
+
+RedPanda 190523
+ArcticFox 190523
+----------------
+
+[*] Minor changes, bugfixes, optimization.
+
+
+
+RedPanda 190522
+---------------
+
+[*] Changed Fn button action: single click to display on/off, hold to Stealth Mode on/off.
+
+
+
+RedPanda 190515
+---------------
+
+[*] Minor improvements.
+
+
+
+RedPanda 190508
+ArcticFox 190508
+----------------
+
+[+] Decreasing charge current on excessive heating: https://nfeteam.org/forum/threads/charging-overtemp-again.3684/
+
+
+
+RedPanda 190504
+---------------
+
+[*] Minor bugfixes.
+
+
+
+ArcticFox 190502
+----------------
+
+[*] Minor bugfixes.
+
+
+
+ArcticFox 190427
+----------------
+
+[+] Support: Eleaf Lexicon.
+[*] Optimizations.
+
+
+RedPanda 190324
+---------------
+
+[*] Minor bugfixes.
+
+
+ArcticFox 190315
+----------------
+
+[+] Support: Twisp Vega, Vega Mini; Joyetech Ultex T-80; Eleaf iKuu i80; Wismec Active, Luxotic MF, Luxotic DF, V80, V200;
+[+] Smart preheat: https://nfeteam.org/forum/threads/preheat-over-time.3255/
+[+] Detailed log: https://nfeteam.org/forum/threads/possibility-to-record-date-time-and-duration-of-each-puff.2852/
+[+] Support for modified DC-DC convertors (V80, V200, Ultex, CB-80, Pico S, Primo Fit, Active, Squeeze 2, probably Luxotic MF);
+[*] Simplified Weak Battery event;
+[*] Power Bank mode revised;
+[*] Optimizations.
+
+
+RedPanda 190315
+---------------
+
+[+] Smart preheat: https://nfeteam.org/forum/threads/preheat-over-time.3255/
+[+] Detailed log: https://nfeteam.org/forum/threads/possibility-to-record-date-time-and-duration-of-each-puff.2852/
+[+] Logo support: https://nfeteam.org/forum/threads/ravage230-and-logo-support.2469/#post-9678
+[+] Color scheme support: https://nfeteam.org/forum/threads/red-panda-info.2192/page-2#post-9758
+[+] Support for modified DC-DC convertors (Ravage230, Espion);
+[*] Simplified Weak Battery event;
+[*] Power Bank mode revised;
+[*] Optimizations.
